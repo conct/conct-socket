@@ -1,0 +1,22 @@
+{
+  "name": "conct-socket",
+  "version": "0.0.1",
+  "description": "Websocket Verbindungen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conct/conct-socket.git"
+  },
+  "dependencies": {
+    "socket.io-client": "^2.0.4"
+  },
+  "author": "Daniel von Lühmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conct/conct-socket/issues"
+  },
+  "homepage": "https://github.com/conct/conct-socket#readme"
+}
