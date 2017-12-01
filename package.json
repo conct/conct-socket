@@ -14,7 +14,7 @@
     "socket.io-client": "^2.0.4"
   },
   "author": "Daniel von Lühmann",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/conct/conct-socket/issues"
   },
